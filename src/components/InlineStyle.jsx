@@ -1,7 +1,14 @@
 import React from 'react'
 
 const containerStyle = {
-
+   border: 'solid 2px grey',
+   borderRadius: '20px',
+   textAlign: 'center',
+   padding: '20px',
+   margin: '20px',
+   display:'flex',
+   justifyContent :'space-around',
+   alignItems: 'center'
 };
 
 const titleStyle = {

@@ -1,2 +1,2 @@
-.container{border:solid 2px gray;border-radius:20px;text-align:center;padding:20px;margin:20px;display:flex;justify-content:space-around;align-items:center}
+.container{border:solid 2px gray;border-radius:20px;text-align:center;padding:20px;margin:20px;display:flex;justify-content:space-around;align-items:center}.container .title{margin:0;color:green}.container button{background-color:pink;border:none;padding:8px;border-radius:8px}.container button:hover{background-color:#fff}
 /*# sourceMappingURL=CssModules.module.min.css.map */
